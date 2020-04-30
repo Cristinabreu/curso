@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.AssemblyInfo.cs
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\bin\Debug\netcoreapp2.2\Meu Mundo.deps.json
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\bin\Debug\netcoreapp2.2\Meu Mundo.runtimeconfig.json
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\bin\Debug\netcoreapp2.2\Meu Mundo.runtimeconfig.dev.json
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\bin\Debug\netcoreapp2.2\Meu Mundo.dll
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\bin\Debug\netcoreapp2.2\Meu Mundo.pdb
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.dll
+C:\Users\HP\Desktop\cristina projeto\Meu Mundo\Meu Mundo\obj\Debug\netcoreapp2.2\Meu Mundo.pdb
